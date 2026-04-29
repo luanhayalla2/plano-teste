@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1777492927638" clover="3.2.0">
+  <project timestamp="1777492927638" name="All files">
+    <metrics statements="12" coveredstatements="12" conditionals="12" coveredconditionals="12" methods="3" coveredmethods="3" elements="27" coveredelements="27" complexity="0" loc="12" ncloc="12" packages="1" files="1" classes="1"/>
+    <file name="sistemaAlunos.js" path="C:\Users\aluno.SENACLAB\Desktop\tutorial-testes-unitarios\plano-teste\sistemaAlunos.js">
+      <metrics statements="12" coveredstatements="12" conditionals="12" coveredconditionals="12" methods="3" coveredmethods="3"/>
+      <line num="12" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="16" count="9" type="stmt"/>
+      <line num="17" count="3" type="stmt"/>
+      <line num="30" count="8" type="cond" truecount="4" falsecount="0"/>
+      <line num="31" count="2" type="stmt"/>
+      <line num="34" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="35" count="2" type="stmt"/>
+      <line num="36" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="37" count="2" type="stmt"/>
+      <line num="39" count="2" type="stmt"/>
+      <line num="43" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
